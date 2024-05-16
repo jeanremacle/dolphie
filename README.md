@@ -34,7 +34,7 @@
 
 
 ## Installation
-Requires Python 3.8+
+Requires Python 3.8+, works with 3.11*
 
 #### Using PyPi
 ```shell
